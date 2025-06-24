@@ -168,10 +168,6 @@
 	</div>
 </div>
 
-<div id="contact" class="h-full bg-white">
-	<h1>home</h1>
-</div>
-
 <style>
 	.shake:hover {
 		/* Start the shake animation and make the animation last for 0.5 seconds */
